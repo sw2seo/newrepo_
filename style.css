@@ -99,3 +99,13 @@ body {
     transform: translateY(-2px);
     box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
 }
+
+/* 다크 모드 */
+body.dark-mode {
+    background-color: #1a1a2e;
+    color: #eee;
+}
+
+body.dark-mode h1 {
+    color: #e94560;
+}

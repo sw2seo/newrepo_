@@ -107,5 +107,13 @@ body.dark-mode {
 }
 
 body.dark-mode h1 {
-    color: #31d12c;
+    color: #eb3f0b;
+}
+
+body.dark-mode h2 {
+    color: #5ddb14;
+}
+
+body.dark-mode h3 {
+    color: #134cc9;
 }
